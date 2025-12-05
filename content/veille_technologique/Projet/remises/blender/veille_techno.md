@@ -7,7 +7,7 @@ weight = 1
 J'ai utilisé [chatgpt](https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_NAMER_CA_EN_032525&utm_term=chat%20gpt%20chatbot&utm_content=175413815685&utm_ad=744952426781&utm_match=p&gad_source=1&gad_campaignid=22376911868&gclid=EAIaIQobChMIrJTu0IGekQMVE2VHAR3kPikpEAAYASAAEgIoTvD_BwE), la version gratuite et sans compte la plus récente en date du 2025-12-01.
 
 ### Question posée à l'IA (chatgpt):
-> Dans quel contexte est-il préférable d'utiliser les noeuds geométriques dans blender?
+> Dans quel contexte est-il préférable d'utiliser les nœuds géométriques dans blender?
 
 ### Réponse
 Les *Geometry Nodes* de Blender sont particulièrement utiles lorsque tu veux créer, modifier ou générer des formes **de manière procédurale**, c'est-à-dire avec des règles et des paramètres plutôt qu'en modélisant tout à la main. Voici les contextes où leur usage est le plus pertinent:
@@ -19,7 +19,7 @@ Si tu dois ajuster souvent la forme d'un objet (nombre de divisions, taille, den
 
 **Exemples:**
 - Clôtures, routes, câbles, tuyaux
-- Barrières grilles, motifs répétitifs
+- Barrières, grilles, motifs répétitifs
 - Bâtiments générés automatiquement
 - Objets qui doivent s'adapter à une courbe
 
@@ -99,7 +99,7 @@ Si tu veux, je peux aussi:
 - ou même te préparer un mini-projet GN étape par étape.
 
 ### Analyse de la réponse fournie par l'IA
-La réponse fournie par chatgpt est complète répond à nos besoins. Nous avons pu découvrir quand et même quand ne pas utiliser les noeuds geométriques et des exemples ont même été fournis. Mais utiliser l'IA en valait-il la peine, et aurions-nous pu obtenir des réponses similaires en effectuant une simple recherche dans un navigateur classique?
+La réponse fournie par chatgpt est complète répond à nos besoins. Nous avons pu découvrir quand et même quand ne pas utiliser les nœuds géométriques et des exemples ont même été fournis. Mais utiliser l'IA en valait-il la peine, et aurions-nous pu obtenir des réponses similaires en effectuant une simple recherche dans un navigateur classique?
 
 En copiant/collant exactement la même question dans un moteur de recherche, nous obtenons beaucoup de réponses, mais pas à la question posée. Nous obtenons beaucoup d'explications sur **qu**'est-ce que sont les *Geometry Nodes* et sur **comment** les utiliser (Quoi/Comment). Cependant, nous cherchons le Quand.
 
@@ -108,3 +108,10 @@ Même en modifiant ma requête pour "Quand utiliser les *Geometry Nodes* blender
 Ce que nous pouvons déduire de cela, c'est que le résultat final est assez similaire, mais le temps que ça a pris afin d'arriver à ce résultat a été beaucoup plus long lors de la recherche dans un navigateur comparativement à la recherche par IA. De plus, la réponse fournie par chatgpt fournissait plus d'informations et de cas de figures. 
 
 ## Choix des sources
+La majorité de mes sources viennent de **Youtube** et **Reddit**. Si nous avions été dans le contexte de contenu purement théorique, par exemple l'apprentissage d'un concept mathématique, ces sources n'auraient pas été fiables puisque nous n'avons pas d'informations sur les auteurs ni sur leur expertise.
+
+Cependant, nous nous trouvons ici dans un contexte d'apprentissage performatif, c'est-à-dire que nous cherchons comment faire une chose. Pour savoir si l'information est bonne ou non, il suffit de l'essayer!
+
+En ce qui concerne la vente de produits, il n'y a pas de risques de s'informer directement auprès du **site Blender** puisque leur logiciel est *open source*. On sait donc qu'ils n'essayent pas de nous vendre un produit. **Les *YouTubers***, quant-à-eux, peuvent essayer de nous vendre des formations plus poussées ou essayer de nous inciter à nous abonner afin de leur générer plus de revenus. Cependant, essayer de nous vendre de tutoriel ne rend pas leurs informations moins bonnes: ils ne sont pas biaisés par rapport à notre sujet car ce qu'ils essaient de vendre n'est pas directement lié à Blender, mais bien aux connaissances. S'ils nous donnaient de mauvaises informations, cela nous découragerait d'acheter leurs formations. On peut donc supposer que l'information partagée par les *YouTubers* par rapport à Blender est véridique, seulement pas nécessairement complète.
+
+Finalement, en ce qui concerne le fonctionnement d'un logiciel et son application, il est rare de trouver une source impeccable. Pour s'assurer de la validité et de la fiabilité des informations transmises, il est préférable de consulter plusieurs sources pour une même information. C'est ce que j'ai fait en validant mes informations auprès de Wikipedia et d'un professionnel.

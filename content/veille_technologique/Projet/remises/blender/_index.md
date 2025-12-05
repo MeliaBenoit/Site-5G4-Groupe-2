@@ -6,8 +6,6 @@ weight = 1
 +++
 
 > [!info] 
-> Nous allons apprendre ce qu'est la programmation en blocs dans le contexte de la modélisation 3D à l'aide de Blender et de ses noeuds géométriques (geometry nodes).
-
-## La hiérarchie mémoire dans les microprocesseur généraliste.
+> Nous allons apprendre ce qu'est la programmation en blocs dans le contexte de la modélisation 3D à l'aide de Blender et de ses nœuds géométriques (geometry nodes).
 
 Par Mélia Benoit.
