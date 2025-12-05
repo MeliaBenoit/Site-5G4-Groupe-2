@@ -48,7 +48,7 @@ Même s'il serait peut-être préférable que j'explique dans mes mots, j'ai tro
 >
 > ![alt text](mesh_not_following.png)
 
-Nous allons aborder plus en détails les nœuds géométriques à l'aide d'exemples concrets.
+Nous allons aborder plus en détails les nœuds géométriques à l'aide d'exemples concrets. Par la suite, une fois que nous aurons mieux saisi le concept des nœuds géométriques, nous allons faire le parallèle avec la programmation telle que nous la connaissons.
 
 ## Exemples
 Pour ce genre de théorie, il est plus facile d'apprendre en se pratiquant. Nous allons donc explorer en profondeur les nœuds géométriques en expérimentant.
